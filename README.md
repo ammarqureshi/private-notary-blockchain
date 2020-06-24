@@ -36,8 +36,7 @@ You should see in your terminal a message indicating that the server is listenin
     ![Request: http://localhost:8000/requestValidation ](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/April/5ca36182_request-ownership/request-ownership.png)
 4. Sign the message with your Wallet:
     ![Use the Wallet to sign a message](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/April/5ca36182_request-ownership/request-ownership.png)
-5. Submit your Star
-Note: If you are using an Electrum wallet, make sure seed type is Legacy and not Segwit.   
+5. Submit your Star - Note: If you are using an Electrum wallet, make sure seed type is Legacy and not Segwit.   
 
      ![Request: http://localhost:8000/submitstar](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/April/5ca365d3_signing-message/signing-message.png)
 6. Retrieve Stars owned by a particular wallet address
